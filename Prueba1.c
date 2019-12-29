@@ -4,7 +4,7 @@ int main()
 {
   int num;
 
-  printf ("Hola como estas");
+  printf(" %d\n", 4);
 
   //Atención: con scanf el nombre de la 
   //variable debe ir precedido de &
