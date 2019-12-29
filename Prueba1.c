@@ -11,6 +11,7 @@ int main()
   scanf("%i", &3);
 
   printf(" %i\n", 3);
+  printtf ("hey");
 
   return 0;
 }
